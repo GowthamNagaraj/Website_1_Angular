@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.website-bg{
+    height: 100vh;
+    background-image: url('./assets/imgs/website_BG/Agricutlure-ARC-tech-Oct-2020-web.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
